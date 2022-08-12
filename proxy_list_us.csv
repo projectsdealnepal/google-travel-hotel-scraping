@@ -1,0 +1,19 @@
+ip,protocol,country,latency
+74.114.232.162:8080,HTTP,US Lake Station (Indiana),20.406
+184.191.162.4:3128,HTTP,US San Diego (California),6.323
+3.144.188.184:8080,HTTP,US Columbus (Ohio),0.802
+130.41.41.175:8080,HTTPS,US Atlanta (Georgia) !!!,0.809
+12.88.29.66:9080,HTTP,US Pauls Valley (Oklahoma),3.212
+34.75.202.63:80,HTTP,US North Charleston (South Carolina),8.233
+23.229.21.138:3128,HTTP,US Piscataway (New Jersey),13.529
+104.37.101.97:8181,HTTP,US Pendleton (Indiana) !!!,4.472
+158.51.107.240:8080,HTTPS,US,5.178
+67.202.53.206:3128,HTTP,US Ashburn (Virginia),4.434
+70.169.70.92:80,HTTP,US Zachary (Louisiana) !!!,18.756
+71.94.71.46:3128,HTTP,US Reno (Nevada),11.112
+5.161.63.222:3128,HTTP,US,13.618
+70.169.70.87:80,HTTP,US Zachary (Louisiana) !!!,1.351
+217.180.218.36:8080,HTTP,US Lansing (Michigan),18.216
+24.106.221.230:53281,HTTP,US Jacksonville (North Carolina),5.793
+3.226.168.144:80,HTTP,US Ashburn (Virginia),4.249
+130.41.65.206:8080,HTTPS,US Portland (Oregon) !!!,1.276
