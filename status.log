@@ -525,3 +525,17 @@ DEBUG:http://localhost:59622 "GET /session/db6e4984-8579-4290-8d13-d9a3aa9751b3/
 DEBUG:Remote response: status=500 | data={"value":{"error":"unknown error","message":"Failed to decode response from marionette","stacktrace":""}} | headers=HTTPHeaderDict({'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache', 'content-length': '105', 'date': 'Wed, 10 Aug 2022 07:18:18 GMT'})
 DEBUG:Finished Request
 ERROR:Scraper Failed for hotels with pools in sacramento
+2022-08-18 04:37:40,717 Processing keyword 5 star hotels in Abilene, TX
+2022-08-18 04:39:56,627 Processing keyword 5 star hotels in Abilene, TX
+2022-08-18 04:44:34,920 Processing keyword 5 star hotels in Abilene, TX
+2022-08-18 04:46:48,697 Processing keyword 5 star hotels in Abilene, TX
+2022-08-18 04:47:39,633 Processing keyword 5 star hotels in Abilene, TX
+2022-08-18 04:48:12,122 Processing keyword 5 star hotels in Abilene, TX
+2022-08-18 04:49:25,424 Processing keyword 5 star hotels in Abilene, TX
+2022-08-18 04:51:08,608 Processing keyword 5 star hotels in Abilene, TX
+2022-08-18 04:53:19,060 Processing keyword 5 star hotels in Abilene, TX
+2022-08-18 04:57:24,690 Processing keyword 5 star hotels in Abilene, TX
+2022-08-18 04:58:04,671 Processing keyword 5 star hotels in Abilene, TX
+2022-08-18 04:59:05,637 Processing keyword 5 star hotels in Abilene, TX
+2022-08-18 05:07:08,233 Processing keyword 5 star hotels in Abilene, TX
+2022-08-18 05:11:52,581 Processing keyword 5 star hotels in Abilene, TX
